@@ -14,7 +14,7 @@ Sanskrit's high information density results in significantly shorter, more preci
 
 ![Text Dexterity](./resources/text_dexterity.png)
 
-### 2. Image Dexterity (Multimodal Generation)
+### 2. Image Dexterity (Multimodal Generation). 
 Nalanda translates precise Sanskrit descriptions (e.g., specific Mudras) into accurate visual representations with higher fidelity than English prompts, which often suffer from semantic drift.
 
 ![Image Dexterity](./resources/image_dexterity.png)
