@@ -5,127 +5,127 @@
         {
             "id": 1,
             "english_archetype": "Pick up the red block and place it on the blue block.",
-            "target_translation": ""
+            "target_translation": "रक्तखण्डं उत्थापय, ततः नीलखण्डस्य उपरि स्थापय।"
         },
         {
             "id": 2,
             "english_archetype": "Move the arm to coordinate (10, 20, 30).",
-            "target_translation": ""
+            "target_translation": "(१०, २०, ३०) इति निर्देशान्के भुजं नय।"
         },
         {
             "id": 3,
             "english_archetype": "Rotate the wrist 90 degrees clockwise.",
-            "target_translation": ""
+            "target_translation": "मणिबन्धं दक्षिणावर्तेन ९० (दशानवति) अंशेन घूर्णय।"
         },
         {
             "id": 4,
             "english_archetype": "Grasp the object with 5N force.",
-            "target_translation": ""
+            "target_translation": "पञ्च-न्यूटन-बलेन वस्तुं गृहाण।"
         },
         {
             "id": 5,
             "english_archetype": "Navigate to the kitchen and avoid obstacles.",
-            "target_translation": ""
+            "target_translation": "रसवतीं गच्छ, मार्गे अवरोधकान् परिहर च।"
         },
         {
             "id": 6,
             "english_archetype": "Pour water from the pitcher into the glass.",
-            "target_translation": ""
+            "target_translation": "कलशात् चषके जलं पूरय।"
         },
         {
             "id": 7,
             "english_archetype": "Fold the laundry neatly.",
-            "target_translation": ""
+            "target_translation": "वस्त्राणि सुव्यवस्थितं पुटय।"
         },
         {
             "id": 8,
             "english_archetype": "Open the door and hold it for the person.",
-            "target_translation": ""
+            "target_translation": "द्वारं उद्घाटय, आगच्छते जनाय तत् धृत्वा तिष्ठ।"
         },
         {
             "id": 9,
             "english_archetype": "Assemble the IKEA chair following instructions.",
-            "target_translation": ""
+            "target_translation": "निर्देशान् अनुसृत्य IKEA-आसन्दं योजय।"
         },
         {
             "id": 10,
             "english_archetype": "Weld the two metal plates together.",
-            "target_translation": ""
+            "target_translation": "द्वे लोहपट्टिके परस्परं वेल्ड-करणेन सन्धय।"
         },
         {
             "id": 11,
             "english_archetype": "Solder the component onto the PCB.",
-            "target_translation": ""
+            "target_translation": "PCB-फलके घटकं (component) टाङ्कय (solder)।"
         },
         {
             "id": 12,
             "english_archetype": "Harvest the ripe tomatoes from the vine.",
-            "target_translation": ""
+            "target_translation": "लतायाः पक्वानि रक्ताङ्गकानि (tomatoes) अवचितय।"
         },
         {
             "id": 13,
             "english_archetype": "Sort the packages by size and color.",
-            "target_translation": ""
+            "target_translation": "आकारेण वर्णेन च संपुटानां (packages) वर्गीकरणं कुरु।"
         },
         {
             "id": 14,
             "english_archetype": "Stack the boxes in a pyramid shape.",
-            "target_translation": ""
+            "target_translation": "पेटिकाः सूच्यग्रे (pyramid shape) चिनु।"
         },
         {
             "id": 15,
             "english_archetype": "Unscrew the bolt from the engine block.",
-            "target_translation": ""
+            "target_translation": "इञ्जिन-भागात् कीलकं (bolt) निष्कासय।"
         },
         {
             "id": 16,
             "english_archetype": "Paint the wall with vertical strokes.",
-            "target_translation": ""
+            "target_translation": "भित्तिं लम्बवत्-लेपनैः रञ्जय।"
         },
         {
             "id": 17,
             "english_archetype": "Vacuum the living room carpet.",
-            "target_translation": ""
+            "target_translation": "उपवेशकक्षस्य आस्तरणं (carpet) निर्वातशोधकेन (vacuum cleaner) शोधय।"
         },
         {
             "id": 18,
             "english_archetype": "Mow the lawn in a striped pattern.",
-            "target_translation": ""
+            "target_translation": "शाद्वलं (lawn) रेखानुरूपं कर्तय।"
         },
         {
             "id": 19,
             "english_archetype": "Serve the food to the guests at the table.",
-            "target_translation": ""
+            "target_translation": "काष्ठपीठिकायां उपविष्टेभ्यः अतिथिभ्यः भोजनं परिवेषय।"
         },
         {
             "id": 20,
             "english_archetype": "Clear the dishes and put them in the dishwasher.",
-            "target_translation": ""
+            "target_translation": "पात्राणि उत्थापय, तानि क्षालनयन्त्रे स्थापय च।"
         },
         {
             "id": 21,
             "english_archetype": "Retrieve the medical kit from the shelf.",
-            "target_translation": ""
+            "target_translation": "निधानिकायाः चिकित्सा-पेटिकां आनय।"
         },
         {
             "id": 22,
             "english_archetype": "Assist the patient in walking to the bed.",
-            "target_translation": ""
+            "target_translation": "रोगिणं शय्यां प्रति चलितुं साहाय्यं कुरु।"
         },
         {
             "id": 23,
             "english_archetype": "Perform CPR on the dummy.",
-            "target_translation": ""
+            "target_translation": "प्रतिकृतौ (dummy) हृदय-फुप्फुस-पुज्जीवनं (CPR) कुरु।"
         },
         {
             "id": 24,
             "english_archetype": "Disarm the mock explosive device.",
-            "target_translation": ""
+            "target_translation": "कृत्रिम-विस्फोटकं निष्क्रियं कुरु।"
         },
         {
             "id": 25,
             "english_archetype": "Inspect the pipeline for cracks.",
-            "target_translation": ""
+            "target_translation": "नळिकायां (pipeline) छिद्राणि सन्ति वा इति निरीक्षस्व।"
         }
     ]
 }

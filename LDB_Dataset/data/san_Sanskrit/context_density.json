@@ -5,127 +5,127 @@
         {
             "id": 1,
             "english_archetype": "Summarize the following 5000-word legal document.",
-            "target_translation": ""
+            "target_translation": "अधोलिखितस्य पञ्चसहस्रशब्दात्मकस्य विधिपत्रस्य सारांशं लिख।"
         },
         {
             "id": 2,
             "english_archetype": "Extract all dates and names from the history book chapter.",
-            "target_translation": ""
+            "target_translation": "इतिहास-पुस्तकस्य अध्यायात् सर्वाणि दिनाङ्कानि नामानि च चिनु।"
         },
         {
             "id": 3,
             "english_archetype": "Identify the main themes in this 10-page essay.",
-            "target_translation": ""
+            "target_translation": "दश-पृष्ठात्मके निबन्धे मुख्यान् विषयान् चिह्नितं कुरु।"
         },
         {
             "id": 4,
             "english_archetype": "Find the contradiction in these two witness statements.",
-            "target_translation": ""
+            "target_translation": "द्वयोः साक्षिणोः कथनयोः विरोधाभासं अन्वेषय।"
         },
         {
             "id": 5,
             "english_archetype": "List all the ingredients mentioned in this cookbook.",
-            "target_translation": ""
+            "target_translation": "अस्यां पाकशास्त्र-पुस्तिकायां उल्लिखितानां सर्वेषां सामग्रीनां सूचीं कुरु।"
         },
         {
             "id": 6,
             "english_archetype": "Map the character relationships in this novel excerpt.",
-            "target_translation": ""
+            "target_translation": "अस्मिन् उपन्यास-खण्डे पात्राणां सम्बन्धं आलेखय।"
         },
         {
             "id": 7,
             "english_archetype": "Timeline the events of the war described here.",
-            "target_translation": ""
+            "target_translation": "अत्र वर्धितायाः युद्ध-घटनानां कालक्रमं रचय।"
         },
         {
             "id": 8,
             "english_archetype": "Calculate the total revenue from this quarterly report.",
-            "target_translation": ""
+            "target_translation": "अस्मात् त्रैमासिक-प्रतिवेदनात् कुल-आयस्य गणनां कुरु।"
         },
         {
             "id": 9,
             "english_archetype": "Explain the scientific method based on this paper.",
-            "target_translation": ""
+            "target_translation": "अस्य शोधपत्रस्य आधारणे वैज्ञानिक-विधिं विवृणु।"
         },
         {
             "id": 10,
             "english_archetype": "Compare the two political platforms detailed below.",
-            "target_translation": ""
+            "target_translation": "अधोलिखितयोः द्वयोः राजनैतिक-पक्षयोः तुलनां कुरु।"
         },
         {
             "id": 11,
             "english_archetype": "Draft a response to this long email thread.",
-            "target_translation": ""
+            "target_translation": "अस्य दीर्घ-ई-पत्र-शृङ्खलायाः (email thread) उत्तरं लिख।"
         },
         {
             "id": 12,
             "english_archetype": "Create a quiz based on this textbook chapter.",
-            "target_translation": ""
+            "target_translation": "अस्य पाठ्यपुस्तक-अध्यायस्य आधारणे प्रश्नमञ्जूषां (quiz) रचय।"
         },
         {
             "id": 13,
             "english_archetype": "Write an abstract for this technical specification.",
-            "target_translation": ""
+            "target_translation": "अस्य तकनीकी-विवरणस्य (specification) सारं लिख।"
         },
         {
             "id": 14,
             "english_archetype": "Translate this short story while keeping cultural nuance.",
-            "target_translation": ""
+            "target_translation": "सांस्कृतिक-सूक्ष्मतां रक्षित्वा अस्याः लघुकथायाः अनुवादं कुरु।"
         },
         {
             "id": 15,
             "english_archetype": "Paraphrase this complex philosophical argument.",
-            "target_translation": ""
+            "target_translation": "इमं जटिलं दार्शनिक-तर्कं सरल-भाषया पुनः लिख।"
         },
         {
             "id": 16,
             "english_archetype": "Condense this meeting transcript into action items.",
-            "target_translation": ""
+            "target_translation": "अस्य सभा-विवरणस्य (transcript) कार्यान्वेय-बिन्दुसु (action items) परिवर्तनं कुरु।"
         },
         {
             "id": 17,
             "english_archetype": "Highlight the key risks in this investment prospectus.",
-            "target_translation": ""
+            "target_translation": "अस्मिन् निवेश-प्रस्तावे (prospectus) मुख्यान् आपदसः (risks) प्रदर्शय।"
         },
         {
             "id": 18,
             "english_archetype": "Categorize the feedback in these 100 customer reviews.",
-            "target_translation": ""
+            "target_translation": "शतानां ग्राहकानां प्रतिक्रियाणां (reviews) वर्गीकरणं कुरु।"
         },
         {
             "id": 19,
             "english_archetype": "Detect the sentiment in this long diary entry.",
-            "target_translation": ""
+            "target_translation": "अस्याः दिनचर्यायाः (diary) भावानां (sentiment) पतां कुरु।"
         },
         {
             "id": 20,
             "english_archetype": "Anonymize the personal data in this medical record.",
-            "target_translation": ""
+            "target_translation": "अस्मिन् चिकित्सा-अभिलेखे (medical record) व्यक्तिगत-दत्तांशं (data) गुप्तं कुरु।"
         },
         {
             "id": 21,
             "english_archetype": "Format this raw text into a structured table.",
-            "target_translation": ""
+            "target_translation": "इमं अपरिष्कृतं पाठं (raw text) सारणीबद्धं कुरु।"
         },
         {
             "id": 22,
             "english_archetype": "Generate a tag cloud from this forum discussion.",
-            "target_translation": ""
+            "target_translation": "अस्याः चर्चायाः आधारणे शब्द-गुच्छं (tag cloud) जनय।"
         },
         {
             "id": 23,
             "english_archetype": "Identify the bias in this news article.",
-            "target_translation": ""
+            "target_translation": "अस्मिन् समाचार-लेखे पक्षपातं (bias) अभिजानीहि।"
         },
         {
             "id": 24,
             "english_archetype": "Fact-check the claims in this political speech.",
-            "target_translation": ""
+            "target_translation": "अस्य राजनैतिक-भाषणस्य दावानां सत्यताम् (fact-check) परीक्षस्व।"
         },
         {
             "id": 25,
             "english_archetype": "Retrieve the answer to 'Who is the killer?' from this mystery story.",
-            "target_translation": ""
+            "target_translation": "अस्याः रहस्य-कथायाः 'घातकः कः?' इति प्रश्नस्य उत्तरं अन्वेषय।"
         }
     ]
 }

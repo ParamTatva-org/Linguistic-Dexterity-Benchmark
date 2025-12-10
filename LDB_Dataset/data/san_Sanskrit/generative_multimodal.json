@@ -5,127 +5,127 @@
         {
             "id": 1,
             "english_archetype": "A red ball on a blue table.",
-            "target_translation": ""
+            "target_translation": "नीलफलकस्य उपरि रक्तकन्दुकः।"
         },
         {
             "id": 2,
             "english_archetype": "A cat sitting on a windowsill looking at rain.",
-            "target_translation": ""
+            "target_translation": "गवाक्षे उपविशन् मार्जारः वृष्टिं पश्यति।"
         },
         {
             "id": 3,
             "english_archetype": "A futuristic city with flying cars.",
-            "target_translation": ""
+            "target_translation": "भविष्यत्कालीनं नगरं यत्र उड्डयन-वाहनानि सन्ति।"
         },
         {
             "id": 4,
             "english_archetype": "A medieval knight fighting a dragon.",
-            "target_translation": ""
+            "target_translation": "मध्ययुगीनः योधः (knight) ड्रैगन-नामक-जन्तुना सह युध्यते।"
         },
         {
             "id": 5,
             "english_archetype": "A serene lake reflecting the mountains.",
-            "target_translation": ""
+            "target_translation": "शान्तं सरोवरं यत्र पर्वतानां प्रतिबिम्बः दृश्यते।"
         },
         {
             "id": 6,
             "english_archetype": "A cyberpunk street market at night.",
-            "target_translation": ""
+            "target_translation": "रात्रौ साइबर-पङ्क-शैली-युतम् विपणिः (street market)।"
         },
         {
             "id": 7,
             "english_archetype": "A portrait of an old woman with wise eyes.",
-            "target_translation": ""
+            "target_translation": "वृद्धायाः चित्रं यस्याः नेत्रयोः ज्ञानं दृश्यते।"
         },
         {
             "id": 8,
             "english_archetype": "An astronaut floating in space.",
-            "target_translation": ""
+            "target_translation": "अन्तरिक्षयात्री आकाशे प्लवते।"
         },
         {
             "id": 9,
             "english_archetype": "A tiger leaping through a hoop of fire.",
-            "target_translation": ""
+            "target_translation": "व्याघ्रः अग्नि-वलयस्य मध्यं लङ्घते।"
         },
         {
             "id": 10,
             "english_archetype": "A minimalist living room with a white sofa.",
-            "target_translation": ""
+            "target_translation": "न्यूनतम-अलंकार-युक्तः कक्षः यत्र श्वेत-पर्यङ्कः (sofa) अस्ति।"
         },
         {
             "id": 11,
             "english_archetype": "A detailed map of a fantasy world.",
-            "target_translation": ""
+            "target_translation": "काल्पनिक-लोकस्य विस्तृतं मानचित्रम्।"
         },
         {
             "id": 12,
             "english_archetype": "A blueprint of a perpetual motion machine.",
-            "target_translation": ""
+            "target_translation": "शाश्वत-गति-यन्त्रस्य रूपरेखा।"
         },
         {
             "id": 13,
             "english_archetype": "A logo for eco-friendly coffee shop.",
-            "target_translation": ""
+            "target_translation": "पर्यावरण-अनुकूल-कॉफी-विपणेः प्रतीकचिह्नम्।"
         },
         {
             "id": 14,
             "english_archetype": "A comic book strip about a superhero dog.",
-            "target_translation": ""
+            "target_translation": "महाशक्ति-युक्तस्य शवानस्य चित्रकथा।"
         },
         {
             "id": 15,
             "english_archetype": "A visualization of a black hole.",
-            "target_translation": ""
+            "target_translation": "कृष्णविवरस्य (Black Hole) दृश्यरूपम्।"
         },
         {
             "id": 16,
             "english_archetype": "Video: A time-lapse of a flower blooming.",
-            "target_translation": ""
+            "target_translation": "विडियो: पुष्पस्य विकसनस्य काल-संक्षेप-दृश्यम् (time-lapse)।"
         },
         {
             "id": 17,
             "english_archetype": "Video: A drone shot flying over a canyon.",
-            "target_translation": ""
+            "target_translation": "विडियो: ड्रोन-द्वारा गृहीतं कन्दरस्य (canyon) दृश्यम्।"
         },
         {
             "id": 18,
             "english_archetype": "Video: A slow-motion drop of water hitting a surface.",
-            "target_translation": ""
+            "target_translation": "विडियो: जलबिन्दोः प्रतल-स्पर्शस्य मन्दगति-दृश्यम्।"
         },
         {
             "id": 19,
             "english_archetype": "Video: A chef chopping vegetables rapidly.",
-            "target_translation": ""
+            "target_translation": "विडियो: पाचकाः वेगेन शाकानि कर्तयति।"
         },
         {
             "id": 20,
             "english_archetype": "Video: A dancer performing ballet on a stage.",
-            "target_translation": ""
+            "target_translation": "विडियो: नर्तकः रङ्गमञ्चे बैले-नृत्यं करोति।"
         },
         {
             "id": 21,
             "english_archetype": "Video: A dog catching a frisbee in mid-air.",
-            "target_translation": ""
+            "target_translation": "विडियो: शवानः आकाशे 'frisbee' गृह्णाति।"
         },
         {
             "id": 22,
             "english_archetype": "Video: A car drifting around a corner.",
-            "target_translation": ""
+            "target_translation": "विडियो: वाहनं (car) कोणे 'drifting' करोति।"
         },
         {
             "id": 23,
             "english_archetype": "Video: Clouds moving quickly across the sky.",
-            "target_translation": ""
+            "target_translation": "विडियो: आका वेगेन चलन्तः मेघाः।"
         },
         {
             "id": 24,
             "english_archetype": "Video: A fire crackling in a fireplace.",
-            "target_translation": ""
+            "target_translation": "विडियो: अग्निकुल्पायां (fireplace) प्रज्वलन् अग्निः।"
         },
         {
             "id": 25,
             "english_archetype": "Video: Rain falling on a window pane.",
-            "target_translation": ""
+            "target_translation": "विडियो: वातायन-काचे पतन्ती वृष्टिः।"
         }
     ]
 }
