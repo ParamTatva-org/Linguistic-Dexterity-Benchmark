@@ -84,6 +84,30 @@ The corpus is divided into two primary categories that test different aspects of
 
 -----
 
+## 🌍 Global LDB Dataset (100 Languages)
+
+To establish a universal hierarchy of linguistic efficiency, the LDB has been expanded to cover the **top 100 spoken languages** worldwide.
+
+**Dataset Statistics:**
+*   **Total Languages:** 100
+*   **Total Prompts:** 10,000 (100 languages × 100 archetype prompts)
+*   **Categories:** 4 (Linguistic Fidelity, Generative Multimodal, Robotic Control, Context Density)
+
+### 📂 Access the Data
+The full dataset is available in the [`LDB_Dataset/`](./LDB_Dataset/) directory. Each language has its own folder containing JSON files for each prompt category.
+
+### ✍️ Call for Contributions (Help Fix Translations!)
+The dataset currently uses **English archetype prompts** as placeholders for many languages. We need **YOUR** help to translate these into the target languages to make this benchmark truly global.
+
+**How to Contribute:**
+1.  Navigate to `LDB_Dataset/data/[Language_Code]_[Language_Name]/`.
+2.  Open the JSON file for a category (e.g., `robotic_control.json`).
+3.  Locate the `"target_translation"` field for each prompt.
+4.  Enter the accurate, high-fidelity translation in the target language.
+5.  **Submit a Pull Request** with your changes!
+
+-----
+
 ## 📊 Evaluation Metrics
 
 The LDB measures performance using the following quantitative metrics:

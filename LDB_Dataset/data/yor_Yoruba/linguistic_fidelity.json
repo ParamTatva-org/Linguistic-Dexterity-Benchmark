@@ -1,0 +1,131 @@
+{
+    "language_code": "yor",
+    "category": "linguistic_fidelity",
+    "prompts": [
+        {
+            "id": 1,
+            "english_archetype": "The boy, who chased the dog that bit the cat, ran home.",
+            "target_translation": ""
+        },
+        {
+            "id": 2,
+            "english_archetype": "Give the book to the man with the telescope.",
+            "target_translation": ""
+        },
+        {
+            "id": 3,
+            "english_archetype": "Visiting relatives can be boring.",
+            "target_translation": ""
+        },
+        {
+            "id": 4,
+            "english_archetype": "I saw her duck.",
+            "target_translation": ""
+        },
+        {
+            "id": 5,
+            "english_archetype": "The chicken is ready to eat.",
+            "target_translation": ""
+        },
+        {
+            "id": 6,
+            "english_archetype": "Time flies like an arrow, fruit flies like a banana.",
+            "target_translation": ""
+        },
+        {
+            "id": 7,
+            "english_archetype": "The old man the boat.",
+            "target_translation": ""
+        },
+        {
+            "id": 8,
+            "english_archetype": "The complex houses married and single soldiers and their families.",
+            "target_translation": ""
+        },
+        {
+            "id": 9,
+            "english_archetype": "The horse raced past the barn fell.",
+            "target_translation": ""
+        },
+        {
+            "id": 10,
+            "english_archetype": "The cotton clothing is made of grows in Mississippi.",
+            "target_translation": ""
+        },
+        {
+            "id": 11,
+            "english_archetype": "Effectuate the termination of the employee.",
+            "target_translation": ""
+        },
+        {
+            "id": 12,
+            "english_archetype": "Synthesize the data into a coherent report.",
+            "target_translation": ""
+        },
+        {
+            "id": 13,
+            "english_archetype": "Analyze the impact of the policy on the economy.",
+            "target_translation": ""
+        },
+        {
+            "id": 14,
+            "english_archetype": "Describe the beauty of the sunset in 50 words.",
+            "target_translation": ""
+        },
+        {
+            "id": 15,
+            "english_archetype": "Explain quantum entanglement to a 5-year-old.",
+            "target_translation": ""
+        },
+        {
+            "id": 16,
+            "english_archetype": "Translate the following legal contract accurately.",
+            "target_translation": ""
+        },
+        {
+            "id": 17,
+            "english_archetype": "Summarize the main points of the article.",
+            "target_translation": ""
+        },
+        {
+            "id": 18,
+            "english_archetype": "Debate the pros and cons of artificial intelligence.",
+            "target_translation": ""
+        },
+        {
+            "id": 19,
+            "english_archetype": "Write a poem about a lonely robot.",
+            "target_translation": ""
+        },
+        {
+            "id": 20,
+            "english_archetype": "Create a dialogue between two philosophers.",
+            "target_translation": ""
+        },
+        {
+            "id": 21,
+            "english_archetype": "Critique the painting 'Starry Night'.",
+            "target_translation": ""
+        },
+        {
+            "id": 22,
+            "english_archetype": "Justify the use of nuclear energy.",
+            "target_translation": ""
+        },
+        {
+            "id": 23,
+            "english_archetype": "Predict the future of space exploration.",
+            "target_translation": ""
+        },
+        {
+            "id": 24,
+            "english_archetype": "Compare and contrast democracy and autocracy.",
+            "target_translation": ""
+        },
+        {
+            "id": 25,
+            "english_archetype": "Define the concept of 'justice' in 3 sentences.",
+            "target_translation": ""
+        }
+    ]
+}

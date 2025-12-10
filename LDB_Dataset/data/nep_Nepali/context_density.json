@@ -1,0 +1,131 @@
+{
+    "language_code": "nep",
+    "category": "context_density",
+    "prompts": [
+        {
+            "id": 1,
+            "english_archetype": "Summarize the following 5000-word legal document.",
+            "target_translation": ""
+        },
+        {
+            "id": 2,
+            "english_archetype": "Extract all dates and names from the history book chapter.",
+            "target_translation": ""
+        },
+        {
+            "id": 3,
+            "english_archetype": "Identify the main themes in this 10-page essay.",
+            "target_translation": ""
+        },
+        {
+            "id": 4,
+            "english_archetype": "Find the contradiction in these two witness statements.",
+            "target_translation": ""
+        },
+        {
+            "id": 5,
+            "english_archetype": "List all the ingredients mentioned in this cookbook.",
+            "target_translation": ""
+        },
+        {
+            "id": 6,
+            "english_archetype": "Map the character relationships in this novel excerpt.",
+            "target_translation": ""
+        },
+        {
+            "id": 7,
+            "english_archetype": "Timeline the events of the war described here.",
+            "target_translation": ""
+        },
+        {
+            "id": 8,
+            "english_archetype": "Calculate the total revenue from this quarterly report.",
+            "target_translation": ""
+        },
+        {
+            "id": 9,
+            "english_archetype": "Explain the scientific method based on this paper.",
+            "target_translation": ""
+        },
+        {
+            "id": 10,
+            "english_archetype": "Compare the two political platforms detailed below.",
+            "target_translation": ""
+        },
+        {
+            "id": 11,
+            "english_archetype": "Draft a response to this long email thread.",
+            "target_translation": ""
+        },
+        {
+            "id": 12,
+            "english_archetype": "Create a quiz based on this textbook chapter.",
+            "target_translation": ""
+        },
+        {
+            "id": 13,
+            "english_archetype": "Write an abstract for this technical specification.",
+            "target_translation": ""
+        },
+        {
+            "id": 14,
+            "english_archetype": "Translate this short story while keeping cultural nuance.",
+            "target_translation": ""
+        },
+        {
+            "id": 15,
+            "english_archetype": "Paraphrase this complex philosophical argument.",
+            "target_translation": ""
+        },
+        {
+            "id": 16,
+            "english_archetype": "Condense this meeting transcript into action items.",
+            "target_translation": ""
+        },
+        {
+            "id": 17,
+            "english_archetype": "Highlight the key risks in this investment prospectus.",
+            "target_translation": ""
+        },
+        {
+            "id": 18,
+            "english_archetype": "Categorize the feedback in these 100 customer reviews.",
+            "target_translation": ""
+        },
+        {
+            "id": 19,
+            "english_archetype": "Detect the sentiment in this long diary entry.",
+            "target_translation": ""
+        },
+        {
+            "id": 20,
+            "english_archetype": "Anonymize the personal data in this medical record.",
+            "target_translation": ""
+        },
+        {
+            "id": 21,
+            "english_archetype": "Format this raw text into a structured table.",
+            "target_translation": ""
+        },
+        {
+            "id": 22,
+            "english_archetype": "Generate a tag cloud from this forum discussion.",
+            "target_translation": ""
+        },
+        {
+            "id": 23,
+            "english_archetype": "Identify the bias in this news article.",
+            "target_translation": ""
+        },
+        {
+            "id": 24,
+            "english_archetype": "Fact-check the claims in this political speech.",
+            "target_translation": ""
+        },
+        {
+            "id": 25,
+            "english_archetype": "Retrieve the answer to 'Who is the killer?' from this mystery story.",
+            "target_translation": ""
+        }
+    ]
+}

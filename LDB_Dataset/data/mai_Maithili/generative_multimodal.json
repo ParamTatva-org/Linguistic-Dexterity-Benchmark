@@ -1,0 +1,131 @@
+{
+    "language_code": "mai",
+    "category": "generative_multimodal",
+    "prompts": [
+        {
+            "id": 1,
+            "english_archetype": "A red ball on a blue table.",
+            "target_translation": ""
+        },
+        {
+            "id": 2,
+            "english_archetype": "A cat sitting on a windowsill looking at rain.",
+            "target_translation": ""
+        },
+        {
+            "id": 3,
+            "english_archetype": "A futuristic city with flying cars.",
+            "target_translation": ""
+        },
+        {
+            "id": 4,
+            "english_archetype": "A medieval knight fighting a dragon.",
+            "target_translation": ""
+        },
+        {
+            "id": 5,
+            "english_archetype": "A serene lake reflecting the mountains.",
+            "target_translation": ""
+        },
+        {
+            "id": 6,
+            "english_archetype": "A cyberpunk street market at night.",
+            "target_translation": ""
+        },
+        {
+            "id": 7,
+            "english_archetype": "A portrait of an old woman with wise eyes.",
+            "target_translation": ""
+        },
+        {
+            "id": 8,
+            "english_archetype": "An astronaut floating in space.",
+            "target_translation": ""
+        },
+        {
+            "id": 9,
+            "english_archetype": "A tiger leaping through a hoop of fire.",
+            "target_translation": ""
+        },
+        {
+            "id": 10,
+            "english_archetype": "A minimalist living room with a white sofa.",
+            "target_translation": ""
+        },
+        {
+            "id": 11,
+            "english_archetype": "A detailed map of a fantasy world.",
+            "target_translation": ""
+        },
+        {
+            "id": 12,
+            "english_archetype": "A blueprint of a perpetual motion machine.",
+            "target_translation": ""
+        },
+        {
+            "id": 13,
+            "english_archetype": "A logo for eco-friendly coffee shop.",
+            "target_translation": ""
+        },
+        {
+            "id": 14,
+            "english_archetype": "A comic book strip about a superhero dog.",
+            "target_translation": ""
+        },
+        {
+            "id": 15,
+            "english_archetype": "A visualization of a black hole.",
+            "target_translation": ""
+        },
+        {
+            "id": 16,
+            "english_archetype": "Video: A time-lapse of a flower blooming.",
+            "target_translation": ""
+        },
+        {
+            "id": 17,
+            "english_archetype": "Video: A drone shot flying over a canyon.",
+            "target_translation": ""
+        },
+        {
+            "id": 18,
+            "english_archetype": "Video: A slow-motion drop of water hitting a surface.",
+            "target_translation": ""
+        },
+        {
+            "id": 19,
+            "english_archetype": "Video: A chef chopping vegetables rapidly.",
+            "target_translation": ""
+        },
+        {
+            "id": 20,
+            "english_archetype": "Video: A dancer performing ballet on a stage.",
+            "target_translation": ""
+        },
+        {
+            "id": 21,
+            "english_archetype": "Video: A dog catching a frisbee in mid-air.",
+            "target_translation": ""
+        },
+        {
+            "id": 22,
+            "english_archetype": "Video: A car drifting around a corner.",
+            "target_translation": ""
+        },
+        {
+            "id": 23,
+            "english_archetype": "Video: Clouds moving quickly across the sky.",
+            "target_translation": ""
+        },
+        {
+            "id": 24,
+            "english_archetype": "Video: A fire crackling in a fireplace.",
+            "target_translation": ""
+        },
+        {
+            "id": 25,
+            "english_archetype": "Video: Rain falling on a window pane.",
+            "target_translation": ""
+        }
+    ]
+}

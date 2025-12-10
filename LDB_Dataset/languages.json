@@ -1,0 +1,602 @@
+[
+    {
+        "code": "san",
+        "name": "Sanskrit",
+        "family": "Indo-Aryan",
+        "morphology": "Synthetic/Inflectional"
+    },
+    {
+        "code": "eng",
+        "name": "English",
+        "family": "Germanic",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "cmn",
+        "name": "Mandarin Chinese",
+        "family": "Sino-Tibetan",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "hin",
+        "name": "Hindi",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "spa",
+        "name": "Spanish",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "fra",
+        "name": "French",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "ara",
+        "name": "Arabic",
+        "family": "Semitic",
+        "morphology": "Introflexive"
+    },
+    {
+        "code": "ben",
+        "name": "Bengali",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "por",
+        "name": "Portuguese",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "rus",
+        "name": "Russian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "urd",
+        "name": "Urdu",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "ind",
+        "name": "Indonesian",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "deu",
+        "name": "German",
+        "family": "Germanic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "jpn",
+        "name": "Japanese",
+        "family": "Japonic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mar",
+        "name": "Marathi",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "tel",
+        "name": "Telugu",
+        "family": "Dravidian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "tur",
+        "name": "Turkish",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "tam",
+        "name": "Tamil",
+        "family": "Dravidian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "yue",
+        "name": "Yue Chinese (Cantonese)",
+        "family": "Sino-Tibetan",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "vie",
+        "name": "Vietnamese",
+        "family": "Austroasiatic",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "kor",
+        "name": "Korean",
+        "family": "Koreanic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "ita",
+        "name": "Italian",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "tha",
+        "name": "Thai",
+        "family": "Kra-Dai",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "guj",
+        "name": "Gujarati",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "jav",
+        "name": "Javanese",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "fas",
+        "name": "Persian (Farsi)",
+        "family": "Iranian",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "pol",
+        "name": "Polish",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "kan",
+        "name": "Kannada",
+        "family": "Dravidian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mal",
+        "name": "Malayalam",
+        "family": "Dravidian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "sun",
+        "name": "Sundanese",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "hau",
+        "name": "Hausa",
+        "family": "Chadic",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "pan",
+        "name": "Punjabi (Eastern)",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "pnb",
+        "name": "Punjabi (Western)",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "bho",
+        "name": "Bhojpuri",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "yor",
+        "name": "Yoruba",
+        "family": "Volta-Niger",
+        "morphology": "Isolating"
+    },
+    {
+        "code": "ukr",
+        "name": "Ukrainian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "ibo",
+        "name": "Igbo",
+        "family": "Volta-Niger",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "uzb",
+        "name": "Uzbek",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "sin",
+        "name": "Sindhi",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "amh",
+        "name": "Amharic",
+        "family": "Semitic",
+        "morphology": "Introflexive"
+    },
+    {
+        "code": "orm",
+        "name": "Oromo",
+        "family": "Cushitic",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "azj",
+        "name": "Azerbaijani",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mai",
+        "name": "Maithili",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "fil",
+        "name": "Filipino",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "bur",
+        "name": "Burmese",
+        "family": "Sino-Tibetan",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "pus",
+        "name": "Pashto",
+        "family": "Iranian",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "swa",
+        "name": "Swahili",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mal",
+        "name": "Malay",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "nep",
+        "name": "Nepali",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "ori",
+        "name": "Odia",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "kur",
+        "name": "Kurdish (Kurmanji)",
+        "family": "Iranian",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "som",
+        "name": "Somali",
+        "family": "Cushitic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "ceb",
+        "name": "Cebuano",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mag",
+        "name": "Magahi",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "hym",
+        "name": "Haryanvi",
+        "family": "Indo-Aryan",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "hun",
+        "name": "Hungarian",
+        "family": "Uralic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "ell",
+        "name": "Greek",
+        "family": "Hellenic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "cat",
+        "name": "Catalan",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "khm",
+        "name": "Khmer",
+        "family": "Austroasiatic",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "zha",
+        "name": "Zhuang",
+        "family": "Kra-Dai",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "zul",
+        "name": "Zulu",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "ces",
+        "name": "Czech",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "run",
+        "name": "Rundi",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "kin",
+        "name": "Kinyarwanda",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "uig",
+        "name": "Uyghur",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "hmn",
+        "name": "Hmong",
+        "family": "Hmong-Mien",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "sna",
+        "name": "Shona",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "min",
+        "name": "Minangkabau",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "bul",
+        "name": "Bulgarian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "kaz",
+        "name": "Kazakh",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "que",
+        "name": "Quechua",
+        "family": "Quechuan",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "swe",
+        "name": "Swedish",
+        "family": "Germanic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "tat",
+        "name": "Tatar",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "lav",
+        "name": "Latvian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "mad",
+        "name": "Madurese",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "hil",
+        "name": "Hiligaynon",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "lug",
+        "name": "Ganda",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "mos",
+        "name": "Mossi",
+        "family": "Gur",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "xho",
+        "name": "Xhosa",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "bel",
+        "name": "Belarusian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "bal",
+        "name": "Balochi",
+        "family": "Iranian",
+        "morphology": "Inflectional"
+    },
+    {
+        "code": "kon",
+        "name": "Kongo",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "nld",
+        "name": "Dutch",
+        "family": "Germanic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "wol",
+        "name": "Wolof",
+        "family": "Niger-Congo",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "heb",
+        "name": "Hebrew",
+        "family": "Semitic",
+        "morphology": "Introflexive"
+    },
+    {
+        "code": "aka",
+        "name": "Akan",
+        "family": "Kwa",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "mlg",
+        "name": "Malagasy",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "tuk",
+        "name": "Turkmen",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "ron",
+        "name": "Romanian",
+        "family": "Romance",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "ssw",
+        "name": "Swati",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "tsn",
+        "name": "Tswana",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "war",
+        "name": "Waray",
+        "family": "Austronesian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "srp",
+        "name": "Serbian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "hrv",
+        "name": "Croatian",
+        "family": "Balto-Slavic",
+        "morphology": "Fusional"
+    },
+    {
+        "code": "nso",
+        "name": "Northern Sotho",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "grn",
+        "name": "Guarani",
+        "family": "Tupian",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "kir",
+        "name": "Kyrgyz",
+        "family": "Turkic",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "sot",
+        "name": "Sotho",
+        "family": "Bantu",
+        "morphology": "Agglutinative"
+    },
+    {
+        "code": "bod",
+        "name": "Tibetan",
+        "family": "Sino-Tibetan",
+        "morphology": "Analytic"
+    },
+    {
+        "code": "lao",
+        "name": "Lao",
+        "family": "Kra-Dai",
+        "morphology": "Analytic"
+    }
+]

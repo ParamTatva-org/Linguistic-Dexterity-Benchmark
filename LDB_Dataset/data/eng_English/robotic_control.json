@@ -1,0 +1,131 @@
+{
+    "language_code": "eng",
+    "category": "robotic_control",
+    "prompts": [
+        {
+            "id": 1,
+            "english_archetype": "Pick up the red block and place it on the blue block.",
+            "target_translation": ""
+        },
+        {
+            "id": 2,
+            "english_archetype": "Move the arm to coordinate (10, 20, 30).",
+            "target_translation": ""
+        },
+        {
+            "id": 3,
+            "english_archetype": "Rotate the wrist 90 degrees clockwise.",
+            "target_translation": ""
+        },
+        {
+            "id": 4,
+            "english_archetype": "Grasp the object with 5N force.",
+            "target_translation": ""
+        },
+        {
+            "id": 5,
+            "english_archetype": "Navigate to the kitchen and avoid obstacles.",
+            "target_translation": ""
+        },
+        {
+            "id": 6,
+            "english_archetype": "Pour water from the pitcher into the glass.",
+            "target_translation": ""
+        },
+        {
+            "id": 7,
+            "english_archetype": "Fold the laundry neatly.",
+            "target_translation": ""
+        },
+        {
+            "id": 8,
+            "english_archetype": "Open the door and hold it for the person.",
+            "target_translation": ""
+        },
+        {
+            "id": 9,
+            "english_archetype": "Assemble the IKEA chair following instructions.",
+            "target_translation": ""
+        },
+        {
+            "id": 10,
+            "english_archetype": "Weld the two metal plates together.",
+            "target_translation": ""
+        },
+        {
+            "id": 11,
+            "english_archetype": "Solder the component onto the PCB.",
+            "target_translation": ""
+        },
+        {
+            "id": 12,
+            "english_archetype": "Harvest the ripe tomatoes from the vine.",
+            "target_translation": ""
+        },
+        {
+            "id": 13,
+            "english_archetype": "Sort the packages by size and color.",
+            "target_translation": ""
+        },
+        {
+            "id": 14,
+            "english_archetype": "Stack the boxes in a pyramid shape.",
+            "target_translation": ""
+        },
+        {
+            "id": 15,
+            "english_archetype": "Unscrew the bolt from the engine block.",
+            "target_translation": ""
+        },
+        {
+            "id": 16,
+            "english_archetype": "Paint the wall with vertical strokes.",
+            "target_translation": ""
+        },
+        {
+            "id": 17,
+            "english_archetype": "Vacuum the living room carpet.",
+            "target_translation": ""
+        },
+        {
+            "id": 18,
+            "english_archetype": "Mow the lawn in a striped pattern.",
+            "target_translation": ""
+        },
+        {
+            "id": 19,
+            "english_archetype": "Serve the food to the guests at the table.",
+            "target_translation": ""
+        },
+        {
+            "id": 20,
+            "english_archetype": "Clear the dishes and put them in the dishwasher.",
+            "target_translation": ""
+        },
+        {
+            "id": 21,
+            "english_archetype": "Retrieve the medical kit from the shelf.",
+            "target_translation": ""
+        },
+        {
+            "id": 22,
+            "english_archetype": "Assist the patient in walking to the bed.",
+            "target_translation": ""
+        },
+        {
+            "id": 23,
+            "english_archetype": "Perform CPR on the dummy.",
+            "target_translation": ""
+        },
+        {
+            "id": 24,
+            "english_archetype": "Disarm the mock explosive device.",
+            "target_translation": ""
+        },
+        {
+            "id": 25,
+            "english_archetype": "Inspect the pipeline for cracks.",
+            "target_translation": ""
+        }
+    ]
+}
